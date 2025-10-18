@@ -5,6 +5,7 @@ A collection of my scripts that I use when installing Arch Linux.
 Installs:
 - Xorg (Window Manager)
 - lxqt (Minimal desktop manager)
+- Breeze Icons (Icons for lxqt)
 - gnome (For application support)
 - Evolution (Email, Calendar & Tasks)
 - pipewire (Audio)
