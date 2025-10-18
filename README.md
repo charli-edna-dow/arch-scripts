@@ -11,4 +11,5 @@ Installs:
 - Libreoffice (MS Office Substitute)
 - 
 
-### packstrap-install.sh - Specific file setup to load and initialize firmware for my Samsung XE310XBA
+### packstrap-install.sh (TODO) - Specific file setup to load and initialize firmware for my Samsung XE310XBA
+(TODO)
