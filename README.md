@@ -14,6 +14,16 @@ Installs:
 - Evolution (Email, Calendar & Tasks)
 - pipewire (Audio)
 - Libreoffice (MS Office Substitute)
+- Sudo (Superuser Do)
+
+Add user to /etc/sudoers in order to enable sudo command. Replace <username> with your username.
+
+(Under the line root ALL=(ALL:ALL) ALL)
+
+```
+<username> ALL=(ALL:ALL) ALL
+```
+  
 - nano (Terminal text editor)
  
 (Can do color formatting for writing different code languages including C, Java, Javascript, PHP and more!)
