@@ -3,6 +3,9 @@
 A collection of my scripts that I use when installing Arch Linux.
 ### default-install.sh - To be run after system is setup
 (Run this file as root)
+
+tl,dr: Installs lxqt (still needs configuring), audio, office suite, and other small packages.
+
 Installs:
 - Xorg (Window Manager)
 - lxqt (Minimal desktop manager)
@@ -15,6 +18,9 @@ Installs:
 - htop (System utilization tool [terminal])
 
 ### packstrap-install.sh (TODO) - Specific file setup to load and initialize firmware for my Samsung XE310XBA
+
+Includes base packages, linux, video firmware, cpu fixes and audio firmware for system.
+
 Installs:
 - Linux
 - Base
