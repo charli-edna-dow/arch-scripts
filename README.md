@@ -19,9 +19,9 @@ Installs:
 - xsecurelock (Lock Screen)
 
   Add line
-  '''
+  ```
   lock_command=xsecurelock
-  '''
+  ```
   to ~/.config/lxqt/lxqt.conf under [General]
 
 ### packstrap-install.sh (TODO) - Specific file setup to load and initialize firmware for my Samsung XE310XBA
