@@ -9,7 +9,8 @@ Installs:
 - Evolution (Email, Calendar & Tasks)
 - pipewire (Audio)
 - Libreoffice (MS Office Substitute)
-- 
+- nano (Terminal text editor)
+- htop (System utilization tool [terminal])
 
 ### packstrap-install.sh (TODO) - Specific file setup to load and initialize firmware for my Samsung XE310XBA
 (TODO)
