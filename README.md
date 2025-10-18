@@ -21,3 +21,4 @@ Installs:
 - Linux Firmware
 - Intel Ucode
 - Intel Video Drivers
+- NetworkManager (For Network connections)
