@@ -1,1 +1,1 @@
-pacman -S xorg-server lxqt breeze-icons man-db man-docs nano gnome evolution pipewire wireplumber pipewire-jack pipewire-pulse noto-fonts noto-fonts-cjk noto-fonts-emoji firefox libreoffice gcc htop sudo
+pacman -S xorg-server lxqt breeze-icons man-db man-docs nano gnome evolution pipewire wireplumber pipewire-jack pipewire-pulse pipewire-alsanoto-fonts noto-fonts-cjk noto-fonts-emoji firefox libreoffice gcc htop sudo
