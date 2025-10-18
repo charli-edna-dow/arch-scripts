@@ -2,7 +2,7 @@
 
 A collection of my scripts that I use when installing Arch Linux.
 ### default-install.sh - To be run after system is setup
-(RUn this file as root)
+(Run this file as root)
 Installs:
 - Xorg (Window Manager)
 - lxqt (Minimal desktop manager)
