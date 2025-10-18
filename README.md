@@ -15,6 +15,13 @@ Installs:
 - pipewire (Audio)
 - Libreoffice (MS Office Substitute)
 - nano (Terminal text editor)
+ 
+(Can do color formatting for writing different code languages including C, Java, Javascript, PHP and more!)
+Copy /etc/nanorc to ~/.nanorc and customize your nano view
+```
+cp /etc/nanorc ~/.nanorc
+nano ~/.nanorc
+```
 - htop (System utilization tool [terminal])
 - xsecurelock (Lock Screen)
 
