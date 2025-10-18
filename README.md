@@ -16,6 +16,7 @@ Installs:
 - Libreoffice (MS Office Substitute)
 - nano (Terminal text editor)
 - htop (System utilization tool [terminal])
+- xsecurelock (Lock Screen)
 
 ### packstrap-install.sh (TODO) - Specific file setup to load and initialize firmware for my Samsung XE310XBA
 
