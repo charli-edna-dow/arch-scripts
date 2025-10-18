@@ -1,1 +1,1 @@
-pacman -S --needed git xorg xorg-server xorg-xinit lxqt breeze-icons man-db man-docs nano gnome evolution pipewire wireplumber pipewire-jack pipewire-pulse pipewire-alsanoto-fonts noto-fonts-cjk noto-fonts-emoji firefox libreoffice gcc htop sudo
+pacman -S --needed git xdg-screensaver xorg xorg-server xorg-xinit lxqt breeze-icons man-db man-docs nano gnome evolution pipewire wireplumber pipewire-jack pipewire-pulse pipewire-alsanoto-fonts noto-fonts-cjk noto-fonts-emoji firefox libreoffice gcc htop sudo
