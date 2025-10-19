@@ -42,6 +42,10 @@ nano ~/.nanorc
   ```
   to ~/.config/lxqt/lxqt.conf under [General]
 
+### default-remove.sh
+
+Same as default-install but uninstalls what default-install.sh installed.
+
 ### packstrap-install.sh (TODO) - Specific file setup to load and initialize firmware for my Samsung XE310XBA
 
 Includes base packages, linux, video firmware, cpu fixes and audio firmware for system.
